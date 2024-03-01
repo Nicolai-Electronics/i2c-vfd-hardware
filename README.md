@@ -4,6 +4,6 @@ This repository contains the hardware desgin files for the I2C controlled NE-HCS
 
 ## License
 
-Copyright 2023 Nicolai Electronics
+Copyright 2024 Nicolai Electronics
 
 This hardware design may be used under the terms of the [CERN-OHL-P](LICENSE) license.
